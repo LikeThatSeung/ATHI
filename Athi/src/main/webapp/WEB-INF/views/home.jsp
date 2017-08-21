@@ -14,7 +14,7 @@
 
 <meta name="description" content="">
 <meta name="author" content="">
-<title>SB Admin - Start Bootstrap Template</title>
+<title>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</title>
 
 <!-- Bootstrap core CSS -->
 <link
